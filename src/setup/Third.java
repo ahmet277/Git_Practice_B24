@@ -6,5 +6,9 @@ public class Third {
         System.out.println("First method in the third file");
 
     }
+    public void m(int a) {
+        System.out.println("Second method in the third file");
 
+
+    }
 }
