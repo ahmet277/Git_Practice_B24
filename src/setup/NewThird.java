@@ -12,6 +12,7 @@ public class NewThird {
     public static void main(String[] args) {
         System.out.println("Idk");
         //ssm
+        // the last change and commit
     }
 
 }
